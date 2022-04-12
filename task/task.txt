@@ -18,3 +18,7 @@
 17. if row count
 18. tambahkan alert
 
+19. Buat repository GitHub dan publish ke Github.com
+20. Menambahkan variabel session pada index dan dashboard
+21. Menambahkan fitur logout
+
