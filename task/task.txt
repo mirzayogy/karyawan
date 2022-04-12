@@ -1,0 +1,20 @@
+1. Download Bootstrap Examples
+    https://getbootstrap.com/docs/5.1/examples/
+2. Buat folder project di htdocs
+3. Copy folder assets dari bootsrap examples ke project
+4. Copy index.html dan signin.css dari bootstrap examples signin ke project
+5. Copy folder bootstrap examples dashboard ke project, ganti jadi pages
+6. Pastikan tampilan sign in sudah benar
+7. ubah index.html menjadi index.php
+8. Buat database di phpmyadmin, buat tabel pengguna, isi
+9. Buat folder database dan file database.php
+10. isi database.php
+11. Pada index.php tambahkan method post pada form
+12. berikan name untuk komponen input dan tombol
+13. buat if button_login di klik
+14. buat loginSQL
+15. panggil Database
+16. buat connection dan statement
+17. if row count
+18. tambahkan alert
+
